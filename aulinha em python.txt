@@ -1,0 +1,8 @@
+###  AULINHA DE PYTHON NO XEON , AULA 01 TESTANDO ALGUNS CONCEITOS NOVOS, DATA:22/01/2026
+
+E UMA QUINTA FEITA MINHA PRIMEIRA FALTA NO TRABALHO ENTAO DECIDE DAR UMA ESTUDA EM PY PARA NAO ME SENTIR UM LIXO COMPLETO SAO 21:26 DA NOITE AGORA CHUVA 19 graus 
+Regra mental profissional:
+
+try/except → erros que o programa não controla
+
+if / validação → erros que você consegue prever
